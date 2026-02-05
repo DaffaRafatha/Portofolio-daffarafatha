@@ -1,8 +1,9 @@
 # Portofolio Tugas Sekolah
 
-Nama  : Mochamad Daffa  
-Kelas : ...  
-Mapel : Informatika  
+Nama    : Mochamad Daffa  
+Kelas   : X-2
+Mapel   : Informatika  
+Sekolah : Prestasi Prima (SMA)
 
 ## Daftar Project
 - Program cek kelulusan siswa
